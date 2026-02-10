@@ -1,0 +1,36 @@
+{
+  "name": "SC8812A",
+  "version": "1.0.0",
+  "description": "Driver library for the SC8812A synchronous buck-boost charger IC.",
+  "keywords": ["charger", "buck-boost", "SC8812A", "battery", "power"],
+  "authors": [
+    {
+      "name": "Hakim",
+      "url": "https://github.com/Luq1308",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Luq1308/SC8812A",
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32", "atmelavr"],
+  "dependencies": [
+    {
+      "name": "Wire"
+    }
+  ],
+  "export": {
+    "exclude": ["extras", "test", "docs"]
+  },
+  "build": {
+    "includeDir": "src",
+    "srcDir": "src"
+  },
+  "examples": [
+    {
+      "name": "Input-output",
+      "base": "examples/Input-output",
+      "files": ["Input-output.ino"]
+    }
+  ]
+}
