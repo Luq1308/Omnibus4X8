@@ -22,4 +22,4 @@ The Omnibus 4X8 is a custom-designed power bank engineered as a highly versatile
 * Overload and overcurrent protections on all outputs with redundancy 
 
 ## Other Resources
-* YouTube guide video: to be updated
+* YouTube guide video: https://www.youtube.com/watch?v=IhzdnEUCXjU
