@@ -5,21 +5,27 @@ The Omnibus 4X8 is a custom-designed power bank engineered as a highly versatile
 ![Top view image](Images/Image_1.jpg)
 
 ## Key Features
-* 4S8P 18650 battery configuration (up to 414 Wh with 3500 mAh cells)
-* Compact 290x175x45 mm form factor and weighs 2.4 kg
-* Arduino control and automation with ESP32-C3 microcontroller
-* Informative 1.3” OLED display with intuitive 3-way navigation button
-* Customisable APO (auto power off) function
-* STA and AP Wi-Fi function for OTA firmware flashing
-* Programmable bidirectional DC port (up to 20V 6A) based on SC8812A chip
-* Constant voltage and constant current regulation in output mode
-* Adaptive charging current in input mode or automatic tracking in MPPT mode
-* 100W bidirectional USB-C port based on IP2368 chip
-* Quad 36W USB-C output port based on XPM52C chip
-* 150W AC mains output
-* 400W+ (30A) direct battery access over XT60
-* Thermal optimised design with temperature monitoring and active cooling
-* Overload and overcurrent protections on all outputs with redundancy 
+* 4S8P 18650 battery configuration (up to 414 Wh with 3500 mAh cells).
+* Compact 290x175x45 mm form factor and weighs 2.4 kg.
+* Arduino control and automation with ESP32-C3 microcontroller.
+* Informative 1.3” OLED display with intuitive 3-way navigation button.
+* Customisable APO (auto power off) function.
+* STA and AP Wi-Fi function for OTA firmware flashing.
+* Programmable bidirectional DC port (up to 20V 6A) based on SC8812A chip.
+* Constant voltage and constant current regulation in output mode.
+* Adaptive charging current in input mode or automatic tracking in MPPT mode.
+* 100W bidirectional USB-C port based on IP2368 chip.
+* Quad 36W USB-C output port based on XPM52C chip.
+* 150W AC mains output.
+* 400W+ (30A) direct battery access over XT60.
+* Thermal optimised design with temperature monitoring and active cooling.
+* Overload and overcurrent protections on all outputs with redundancy. 
 
 ## Other Resources
 * YouTube guide video: https://www.youtube.com/watch?v=IhzdnEUCXjU
+* Reddit thread: https://www.reddit.com/r/arduino/comments/1r3ok6e/i_made_an_opensource_high_capacity_power_bank/
+
+## Creator's Note
+* If you decided to create one, please let me know! I'd love to see builds by other people and I may feature yours.
+* You can monetarily support my project at https://www.paypal.com/paypalme/1308luq
+* Feel free to reach out to me for support, regardless of your donation status. I'd be more than happy to help.
